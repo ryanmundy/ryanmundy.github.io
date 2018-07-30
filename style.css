@@ -19,7 +19,7 @@ div {
   min-width: 75%;
   background-color: #F5F5F5;
   border-style: double;
-  text-position: center;
+  text-align: center;
 }
 
 .nav {
