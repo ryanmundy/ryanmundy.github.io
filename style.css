@@ -21,17 +21,18 @@ div {
   border-style: double;
   text-align: center;
   margin: 10px 5px 10px 5px;
-  max-width: 75%;
+  max-width: 80%;
   min-width: 140px;
 }
 
 .nav {
   background-color: #1E90FF;
   max-width: 15%;
-  min-width: 210px;
+  min-width: 140px;
   flex: 1;
   padding-left: 30px;
   padding-right: 30px;
   border-style: double;
   margin: 10px 5px 10px 5px;
+  text-align: center;
 }
