@@ -16,18 +16,18 @@ div {
 .main {
   padding-left: 30px;
   padding-right: 30px;
-  min-width: 75%;
+  min-width: 25%;
   background-color: #F5F5F5;
   border-style: double;
   text-align: center;
   margin: 10px 5px 10px 5px;
-  max-width: 75%;
+  max-width: 50%;
   min-width: 140px;
 }
 
 .nav {
   background-color: #1E90FF;
-  max-width: 15%;
+  max-width: 10%;
   min-width: 140px;
   flex: 1;
   padding-left: 30px;
