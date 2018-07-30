@@ -23,4 +23,6 @@ div {
   max-width: 25%;
   min-width: 140px;
   flex: 1;
+  padding-left: 30px;
+  padding-right: 30px;
 }
