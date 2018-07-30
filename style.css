@@ -15,8 +15,11 @@ div {
 
 .main {
   padding-left: 30px;
+  padding-right: 30px;
   min-width: 75%;
   background-color: #F5F5F5;
+  border-style: double;
+  text-position: center;
 }
 
 .nav {
