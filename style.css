@@ -11,6 +11,7 @@ div {
 }
 .container {
   display: flex;
+  position: center;
 }
 
 .main {
